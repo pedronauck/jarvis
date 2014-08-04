@@ -6,6 +6,9 @@
 ## PodCasts
 - [ZOFE](http://zofe.com.br/)
 
+## Guias
+- [FrontEnd StyleGuide (Sessão Javascript)](http://pedronauck.com/frontend-styleguide/javascript/)
+
 ## Artigos
 - [Programação Orientada a Objetos - Parte 01](http://pedronauck.com/programacao/programacao-orientada-objetos-oop-parte-01)
 - [Programação Orientada a Objetos - Parte 02](http://pedronauck.com/programacao/programacao-orientada-objetos-oop-parte-02)
