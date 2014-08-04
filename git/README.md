@@ -1,4 +1,4 @@
-![](../_covers/cover-git.png)
+![](../_covers/png/cover-git.png)
 
 ## Artigos
 - [Git Flow cheatsheet - (Português)](http://danielkummer.github.io/git-flow-cheatsheet/index.pt_BR.html)

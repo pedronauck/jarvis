@@ -1,4 +1,4 @@
-![](../_covers/cover-javascript.png)
+![](../_covers/png/cover-javascript.png)
 
 ## Livros
 - [Javascript Furtivo](https://leanpub.com/javascriptfurtivo/)

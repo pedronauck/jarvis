@@ -1,4 +1,4 @@
-![](../_covers/cover-agile.png)
+![](../_covers/png/cover-agile.png)
 
 ## Livros
 - [Agile: Desenvolvimento de software com entregas frequentes e foco no valor de negócio](http://www.casadocodigo.com.br/products/livro-agile)

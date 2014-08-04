@@ -1,4 +1,4 @@
-![](../_covers/cover-programacao.png)
+![](../_covers/png/cover-programacao.png)
 
 ## Artigos
 - [5 dicas para manter um código organizado e padrão](http://pedronauck.com/programacao/5-dicas-para-manter-um-codigo-organizado-e-padrao)

@@ -1,4 +1,4 @@
-![](../_covers/cover-nodejs.png)
+![](../_covers/png/cover-nodejs.png)
 
 ## Livros
 - [Casa do Código - NodeJS](http://www.casadocodigo.com.br/products/livro-nodejs)

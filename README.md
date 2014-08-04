@@ -1,4 +1,4 @@
-![](_covers/cover-main.png)
+![](_covers/png/cover-main.png)
 
 O Jarvis é um repositório mantido pelos colaboradores da GoNorth contendo conteúdo que ajudará você a se desenvolver como programador e ganhar conhecimento na área. Aqui você encontrará conteúdo relevante sobre as ferramentas usadas dentro da GoNorth :)
 
