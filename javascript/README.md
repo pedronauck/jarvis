@@ -1,7 +1,10 @@
 ![](../_covers/png/cover-javascript.png)
 
-## Livros
+## Livros/Ebooks
 - [Javascript Furtivo](https://leanpub.com/javascriptfurtivo/)
+
+## PodCasts
+- [ZOFE](http://zofe.com.br/)
 
 ## Artigos
 - [Programação Orientada a Objetos - Parte 01](http://pedronauck.com/programacao/programacao-orientada-objetos-oop-parte-01)
@@ -17,6 +20,8 @@
 - [Objetos JavaScript em Detalhe](http://javascriptbrasil.com/2013/10/07/objetos-javascript-em-detalhe/)
 - [Orientação a Objetos em Javascript – Função Construtora](http://javascriptbrasil.com/2013/05/28/orientacao-a-objetos-em-javascript-funcao-construtora/)
 - [Programação Funcional com Javascript](imasters.com.br/front-end/javascript/programacao-funcional-com-javascript/)
+- [Herança em Javascript - Parte 1](http://loopinfinito.com.br/2012/05/04/heranca-em-javascript-parte-1/)
+- [Herança em Javascript - Parte 2](http://loopinfinito.com.br/2013/02/05/heranca-em-javascript-parte-2/)
 
 ## Videos/Cursos
 - [Universidade XTI - JavaScript](https://www.youtube.com/watch?v=64glGcmkHNI&list=PL48981947BAC7C172)

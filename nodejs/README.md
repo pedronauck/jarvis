@@ -1,6 +1,6 @@
 ![](../_covers/png/cover-nodejs.png)
 
-## Livros
+## Livros/Ebooks
 - [Casa do Código - NodeJS](http://www.casadocodigo.com.br/products/livro-nodejs)
 
 ## Tutoriais
