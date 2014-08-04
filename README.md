@@ -6,11 +6,11 @@ Fique a vontade para contribuir e melhorar nosso acervo de conteúdo, contamos c
 
 ## Indíce de conteúdo
 
-- [Agile](agile/readme.md)
-- [Git](git/readme.md)
-- [Javascript](javascript/readme.md)
-- [MongoDB](mongodb/readme.md)
-- [NodeJS](nodejs/readme.md)
+- [Agile](agile/README.md)
+- [Git](git/README.md)
+- [Javascript](javascript/README.md)
+- [MongoDB](mongodb/README.md)
+- [NodeJS](nodejs/README.md)
 
 ## Para Contribuir
 
